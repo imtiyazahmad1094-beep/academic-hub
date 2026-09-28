@@ -1,0 +1,6 @@
+{
+  "name": "Academic Hub",
+  "description": "A high-fidelity academic platform with an ultra-modern dark glassmorphic design, classic editorial typography, and research event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
